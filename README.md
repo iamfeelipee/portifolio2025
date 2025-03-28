@@ -33,6 +33,7 @@ O site é totalmente responsivo e se adapta a diferentes tamanhos de tela:
 - [Site ao vivo](https://iamfeelipee.github.io/portifolio2025/)
 - [LinkedIn](https://www.linkedin.com/in/felipe-leonardo-9562a9340/)
 - [GitHub](https://github.com/iamfeelipee)
+- [Instagram](https://www.instagram.com/iamfeelipee)
 
 ## 📞 Contato
 
