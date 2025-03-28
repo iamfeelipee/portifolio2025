@@ -1,0 +1,15 @@
+{
+  "name": "portfolio2025",
+  "version": "1.0.0",
+  "description": "Meu portfólio pessoal",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

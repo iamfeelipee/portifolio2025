@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fundo -->
+    <rect width="1200" height="630" fill="#2a2a72"/>
+    
+    <!-- Padrão de fundo -->
+    <g fill="#ffffff" fill-opacity="0.05">
+        <path d="M0 0h60v60H0z"/>
+        <path d="M60 60h60v60H60z"/>
+        <path d="M120 120h60v60h-60z"/>
+        <path d="M180 180h60v60h-60z"/>
+        <path d="M240 240h60v60h-60z"/>
+        <path d="M300 300h60v60h-60z"/>
+        <path d="M360 360h60v60h-60z"/>
+        <path d="M420 420h60v60h-60z"/>
+        <path d="M480 480h60v60h-60z"/>
+        <path d="M540 540h60v60h-60z"/>
+        <path d="M600 600h60v60h-60z"/>
+        <path d="M660 660h60v60h-60z"/>
+        <path d="M720 720h60v60h-60z"/>
+        <path d="M780 780h60v60h-60z"/>
+        <path d="M840 840h60v60h-60z"/>
+        <path d="M900 900h60v60h-60z"/>
+        <path d="M960 960h60v60h-60z"/>
+        <path d="M1020 1020h60v60h-60z"/>
+        <path d="M1080 1080h60v60h-60z"/>
+        <path d="M1140 1140h60v60h-60z"/>
+    </g>
+    
+    <!-- Logo -->
+    <g transform="translate(100, 100)">
+        <rect width="200" height="200" rx="50" fill="#64ffda"/>
+        <text x="100" y="140" font-family="Arial" font-size="120" font-weight="bold" fill="#2a2a72" text-anchor="middle">FF</text>
+    </g>
+    
+    <!-- Texto -->
+    <text x="600" y="400" font-family="Arial" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">Felipe Fonseca</text>
+    <text x="600" y="480" font-family="Arial" font-size="36" fill="#64ffda" text-anchor="middle">Desenvolvedor Full Stack</text>
+    <text x="600" y="540" font-family="Arial" font-size="24" fill="#ffffff" fill-opacity="0.8" text-anchor="middle">Transformando ideias em experiências digitais</text>
+</svg> 
